@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Block {
     /*
-    Each block: will have:
+    Each block will have:
         * list of transactions
         * Previous Hash
         * Hash
