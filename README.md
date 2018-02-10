@@ -11,6 +11,7 @@ There are some things missing in this project:
 
 
 # Modules
+The code is inside src folder.
 ## Main
 The blockchain and its behaviour is defined here.
 
