@@ -22,7 +22,7 @@ Block is defined as an object and will consist of three elements:
 * Previous Hash
 * Hash
 
-Number of transactions can be differente in each block.
+Number of transactions can be different in each block.
 # References
 
 UNDERSTANDING BLOCKCHAIN
